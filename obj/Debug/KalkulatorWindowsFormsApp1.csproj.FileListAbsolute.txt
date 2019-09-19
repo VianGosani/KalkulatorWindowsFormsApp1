@@ -1,0 +1,13 @@
+D:\18.11.2324\Kalkulator2019\KalkulatorWindowsFormsApp1\bin\Debug\KalkulatorWindowsFormsApp1.exe.config
+D:\18.11.2324\Kalkulator2019\KalkulatorWindowsFormsApp1\bin\Debug\KalkulatorWindowsFormsApp1.exe
+D:\18.11.2324\Kalkulator2019\KalkulatorWindowsFormsApp1\bin\Debug\KalkulatorWindowsFormsApp1.pdb
+D:\18.11.2324\Kalkulator2019\KalkulatorWindowsFormsApp1\obj\Debug\KalkulatorWindowsFormsApp1.csprojAssemblyReference.cache
+D:\18.11.2324\Kalkulator2019\KalkulatorWindowsFormsApp1\obj\Debug\KalkulatorWindowsFormsApp1.Form1.resources
+D:\18.11.2324\Kalkulator2019\KalkulatorWindowsFormsApp1\obj\Debug\KalkulatorWindowsFormsApp1.Properties.Resources.resources
+D:\18.11.2324\Kalkulator2019\KalkulatorWindowsFormsApp1\obj\Debug\KalkulatorWindowsFormsApp1.csproj.GenerateResource.cache
+D:\18.11.2324\Kalkulator2019\KalkulatorWindowsFormsApp1\obj\Debug\KalkulatorWindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\18.11.2324\Kalkulator2019\KalkulatorWindowsFormsApp1\obj\Debug\KalkulatorWindowsFormsApp1.exe
+D:\18.11.2324\Kalkulator2019\KalkulatorWindowsFormsApp1\obj\Debug\KalkulatorWindowsFormsApp1.pdb
+D:\18.11.2324\Kalkulator2019\KalkulatorWindowsFormsApp1\bin\Debug\CalculatorMahine.dll
+D:\18.11.2324\Kalkulator2019\KalkulatorWindowsFormsApp1\bin\Debug\CalculatorMahine.pdb
+D:\18.11.2324\Kalkulator2019\KalkulatorWindowsFormsApp1\obj\Debug\KalkulatorWindowsFormsApp1.csproj.CopyComplete
